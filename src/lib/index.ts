@@ -1,3 +1,1 @@
-export default 122;
-
-export const A = 4;
+export { default as has } from './utils/has';
